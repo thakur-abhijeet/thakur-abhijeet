@@ -40,8 +40,8 @@
   <img src="https://img.shields.io/badge/Shell-Fish-FF6890?logo=fish&logoColor=white" alt="Fish Shell" />
   <img src="https://img.shields.io/badge/WM-Hyprland-0E76A8?logo=linux&logoColor=white" alt="Hyprland" />
   <img src="https://img.shields.io/badge/Editor-Neovim-57A143?logo=neovim&logoColor=white" alt="Neovim" />
-  <img src="https://img.shields.io/badge/OS-Windows_11-0078D6?logo=windows&logoColor=white" alt="Windows 11" />
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/OS-Windows_11-0078D6?logo=windows&logoColor=white" alt="Endeavor OS" />
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="Java | Python" />
 </p>
 
 ---
