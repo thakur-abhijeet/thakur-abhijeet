@@ -2,7 +2,7 @@
 <!--   PROFILE HEADER   -->
 <!-- ==================== -->
 
-<h1 align="center">Hi 👋, I’m Abhijeet (thakur-abhijeet)</h1>
+<h1 align="center">Hi 👋, I’m Abhijeet</h1>
 <h3 align="center">Engineer | Linux Rice Artist | Polygoat-in-Progress 🐐</h3>
 
 <p align="center">
@@ -25,7 +25,7 @@
 - 🌱 I’m exploring **Tech**, **Society**, **Politics**, and **Life**  
 - 💬 Ask me about **Linux**, **Arch**, **Engineering**, **Philosophy**  
 - 📫 How to reach me: thakurabhijeet103@gmail.com  
-- ⚡ Fun fact: My OCD loves a perfectly riced config more than sleep  
+- ⚡ Fun fact: My OCD loves a perfectly beautiful tech
 
 ---
 
