@@ -82,13 +82,13 @@
 <!--   WAKATIME STATS     -->
 <!-- ==================== -->
 
-## 📊 WakaTime Coding Stats
+<!-- ## 📊 WakaTime Coding Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thakur-abhijeet&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
 </p>
 
----
+--- -->
 
 <!-- ==================== -->
 <!--    NOW PLAYING       -->
@@ -98,7 +98,7 @@
 
 <p align="center">
   <!-- Replace YOUR_SPOTIFY_USER_ID with your actual Spotify user ID -->
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&locale=en" alt="Spotify Now Playing" />
+  <img src="https://open.spotify.com/user/314hako36s6uwg2n2p4mgeuejnba" alt="Spotify Now Playing" />
 </p>
 
 ---
@@ -115,10 +115,10 @@
 
 ---
 
-<!-- ==================== -->
+==================== -->
 <!--  RECENT ACTIVITY     -->
 <!-- ==================== -->
-
+<!-- 
 ## ⏳ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
@@ -129,8 +129,8 @@
 <!-- ==================== -->
 <!--   LATEST BLOG POSTS  -->
 <!-- ==================== -->
-
-## 📝 Latest Blog Posts
+<!-- 
+## 📝 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -141,7 +141,7 @@
 <!--  PINNED REPOSITORIES  -->
 <!-- ==================== -->
 
-## 📁 Pinned Repositories
+<!-- ## 📁 Pinned Repositories -->
 
 <!-- Use GitHub’s built-in “Pinned” section on your profile. -->
 
@@ -151,15 +151,15 @@
 <!--    SPONSORS          -->
 <!-- ==================== -->
 
-## 🤝 Sponsors & Donations
+<!-- ## 🤝 Sponsors & Donations -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/sponsors/thakur-abhijeet">
     <img src="https://img.shields.io/badge/Support-🤝-ff69b4?logo=github&style=flat-square" alt="Sponsor" />
   </a>
-</p>
+</p> -->
 
----
+<!-- --- -->
 
 <!-- ==================== -->
 <!--   ACHIEVEMENTS       -->
@@ -190,8 +190,6 @@
 <!-- ==================== -->
 
 <p align="center">
-  <a href="https://twitter.com/your_twitter_handle"><img src="https://img.shields.io/badge/Twitter-@your_handle-1DA1F2?logo=twitter&logoColor=white&style=flat-square" alt="Twitter" /></a>
-  &nbsp;
   <a href="https://linkedin.com/in/your_linkedin_username"><img src="https://img.shields.io/badge/LinkedIn-YourName-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /></a>
 </p>
 
