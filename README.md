@@ -1,195 +1,29 @@
-<!-- ==================== -->
-<!--   PROFILE HEADER   -->
-<!-- ==================== -->
 
-<h1 align="center">Hi 👋, I’m Abhijeet</h1>
+<h1 align="center">Hi 👋, I'm Abhijeet</h1>
 <h3 align="center">Engineer | Linux Rice Artist | Polygoat-in-Progress 🐐</h3>
 
-<p align="center">
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=thakur-abhijeet&style=flat-square" alt="Profile Views" />
-  &nbsp;&nbsp;
-  <!-- Email Badge -->
-  <img src="https://img.shields.io/badge/Email-thakurabhijeet103@gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thakur-abhijeet&label=Profile%20views&color=0e75b6&style=flat" alt="thakur-abhijeet" /> </p>
 
----
+- 🔭 I’m currently working on [Recommendation System](https://github.com/thakur-abhijeet/ML)
 
-<!-- ==================== -->
-<!--     ABOUT ME        -->
-<!-- ==================== -->
+- 💬 Ask me about **Linux, Arch, Engineering, Philosophy**
 
-## 👨‍💻 About Me
+- 📫 How to reach me **thakurabhijeet103@gmail.com**
 
-- 🔭 I’m currently ricing **Arch Linux** with **Hyprland** & **Fish Shell**  
-- 🌱 I’m exploring **Tech**, **Society**, **Politics**, and **Life**  
-- 💬 Ask me about **Linux**, **Arch**, **Engineering**, **Philosophy**  
-- 📫 How to reach me: thakurabhijeet103@gmail.com  
-- ⚡ Fun fact: My OCD loves a perfectly beautiful tech
+- ⚡ Fun fact **Fun fact: My OCD loves a perfectly beautiful tech**
 
----
-
-<!-- ==================== -->
-<!--  SKILLS & TOOLS     -->
-<!-- ==================== -->
-
-## 🛠 Skills & Tools
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux-Arch-1793D1?logo=arch-linux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Shell-Fish-FF6890?logo=fish&logoColor=white" alt="Fish Shell" />
-  <img src="https://img.shields.io/badge/WM-Hyprland-0E76A8?logo=linux&logoColor=white" alt="Hyprland" />
-  <img src="https://img.shields.io/badge/Editor-Neovim-57A143?logo=neovim&logoColor=white" alt="Neovim" />
-  <img src="https://img.shields.io/badge/OS-Windows_11-0078D6?logo=windows&logoColor=white" alt="Endeavor OS" />
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="Java | Python" />
+<a href="https://linkedin.com/in/in/thabhijeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/thabhijeet" height="30" width="40" /></a>
+<a href="https://instagram.com/_thakur_abhijeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_thakur_abhijeet" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<!-- ==================== -->
-<!--  GITHUB STATISTICS   -->
-<!-- ==================== -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thakur-abhijeet&show_icons=true&locale=en&layout=compact" alt="thakur-abhijeet" /></p>
 
-## 📈 GitHub Stats & Top Languages
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thakur-abhijeet&show_icons=true&locale=en" alt="thakur-abhijeet" /></p>
 
-<p align="center">
-  <!-- Overall stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=thakur-abhijeet&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakur-abhijeet&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-<!-- ==================== -->
-<!--  CONTRIBUTION HEAT   -->
-<!-- ==================== -->
-
-## ⏳ Contribution Streak & Heatmap
-
-<p align="center">
-  <!-- Streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thakur-abhijeet&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <!-- Contribution graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=thakur-abhijeet&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-<!-- ==================== -->
-<!--   WAKATIME STATS     -->
-<!-- ==================== -->
-
-<!-- ## 📊 WakaTime Coding Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thakur-abhijeet&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
-</p>
-
---- -->
-
-<!-- ==================== -->
-<!--    NOW PLAYING       -->
-<!-- ==================== -->
-
-## 🎶 Spotify – Now Playing
-
-<p align="center">
-  <!-- Replace YOUR_SPOTIFY_USER_ID with your actual Spotify user ID -->
-  <img src="https://open.spotify.com/user/314hako36s6uwg2n2p4mgeuejnba" alt="Spotify Now Playing" />
-</p>
-
----
-
-<!-- ==================== -->
-<!--   VISITOR COUNTER    -->
-<!-- ==================== -->
-
-## 👀 Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/thakur-abhijeet/count.svg" alt="Visitor Count" />
-</p>
-
----
-
-==================== -->
-<!--  RECENT ACTIVITY     -->
-<!-- ==================== -->
-<!-- 
-## ⏳ Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-<!-- ==================== -->
-<!--   LATEST BLOG POSTS  -->
-<!-- ==================== -->
-<!-- 
-## 📝 Latest Blog Posts -->
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<!-- ==================== -->
-<!--  PINNED REPOSITORIES  -->
-<!-- ==================== -->
-
-<!-- ## 📁 Pinned Repositories -->
-
-<!-- Use GitHub’s built-in “Pinned” section on your profile. -->
-
----
-
-<!-- ==================== -->
-<!--    SPONSORS          -->
-<!-- ==================== -->
-
-<!-- ## 🤝 Sponsors & Donations -->
-
-<!-- <p align="center">
-  <a href="https://github.com/sponsors/thakur-abhijeet">
-    <img src="https://img.shields.io/badge/Support-🤝-ff69b4?logo=github&style=flat-square" alt="Sponsor" />
-  </a>
-</p> -->
-
-<!-- --- -->
-
-<!-- ==================== -->
-<!--   ACHIEVEMENTS       -->
-<!-- ==================== -->
-
-## 🏆 Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thakur-abhijeet&theme=tokyonight&no-frame=true" alt="Trophies" />
-</p>
-
----
-
-<!-- ==================== -->
-<!-- QUOTE OF THE DAY     -->
-<!-- ==================== -->
-
-## 🎯 Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
-</p>
-
----
-
-<!-- ==================== -->
-<!-- CTA: CONNECT & FOLLOW -->
-<!-- ==================== -->
-
-<p align="center">
-  <a href="https://linkedin.com/in/your_linkedin_username"><img src="https://img.shields.io/badge/LinkedIn-YourName-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /></a>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thakur-abhijeet&" alt="thakur-abhijeet" /></p>
 
